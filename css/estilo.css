@@ -1,0 +1,49 @@
+html{
+    border-color: 2px solid red;
+}
+body{
+    background-color: antiquewhite;
+    margin:0px;
+    padding: 0px;
+    border-color: 2px solid blue;
+}
+
+header{
+    background-color: rgb(212, 206, 206);
+    margin: auto;
+    text-align: center;
+    font-size: 32px;
+    color:red;
+    width: 100%;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+footer{
+    background-color: rgb(160, 140, 239);
+    margin: auto;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    width: 100%;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+aside{
+    width: 300px;
+
+    background-color: coral;
+    border: 2px solid red;
+    float: left;
+}
+
+#td_seccion{
+    width: 100%;
+
+
+}
+#h1_seccion{
+    text-align: center;
+
+}
