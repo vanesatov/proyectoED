@@ -47,3 +47,17 @@ aside{
     text-align: center;
 
 }
+figure{
+    float:left;
+}
+figure img{
+    width: 120px;
+    border-radius: 15px;
+}
+figure img:hover{
+    width: 140px;
+
+}
+figcaption{
+    text-align: center;
+}
